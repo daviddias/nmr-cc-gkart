@@ -1,0 +1,11 @@
+{
+  "name": "nmr-cc-gkart",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Dias <daviddias.p@gmail.com>",
+  "license": "MIT"
+}
